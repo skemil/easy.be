@@ -1,0 +1,54 @@
+# Translation of Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-09 05:38:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release)\n"
+
+#: languages/vue.php:1966
+msgid "Custom code"
+msgstr "Własny kod"
+
+#: languages/vue.php:2571
+msgid "Enhanced Link Attribution"
+msgstr "Ulepszone śledzenie odnośników"
+
+#: languages/vue.php:965
+msgid "License Key"
+msgstr "Klucz licencyjny"
+
+#: languages/vue.php:531
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:323 languages/vue.php:516
+msgid "General"
+msgstr "Ogólne"
+
+#: languages/vue.php:2222
+msgid "Manually enter your UA code"
+msgstr "Wprowadź swój kod UA ręcznie"
+
+#: includes/admin/admin.php:45 includes/admin/admin.php:221
+#: languages/vue.php:1973
+msgid "Reports"
+msgstr "Raporty"
+
+#: includes/admin/admin.php:40 includes/admin/admin.php:48
+#: includes/admin/admin.php:324 languages/vue.php:510
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: includes/admin/reports/overview.php:34 languages/vue.php:558
+msgid "Overview"
+msgstr "Przegląd"
+
+#: languages/vue.php:338
+msgid "Custom Dimensions"
+msgstr "Własne wymiary"

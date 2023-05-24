@@ -1,0 +1,548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-06 16:46+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: install.php:66
+msgid "Help"
+msgstr "Hilfe"
+
+#: install.php:72 install.php:103
+msgid "WordPress installation"
+msgstr "WordPress-Installation"
+
+#: install.php:107
+msgid "Step 1 of 4"
+msgstr "Schritt 1 von 4"
+
+#: install.php:108
+msgid "Create a WordPress admin account for this website"
+msgstr "Erstellen Sie ein WordPress-Admin-Konto für diese Website"
+
+# This is the account you’re gonna use to log in to your WordPress admin, where you can edit your website.
+#: install.php:109
+msgid ""
+"This is the account you’re gonna use to log in to your WordPress admin, "
+"where you can edit your website."
+msgstr ""
+"Dies ist das Konto, mit dem Sie sich in WordPress-Admin einloggen, wo Sie "
+"Ihre Website bearbeiten können."
+
+#: install.php:116
+msgid "Step 2 of 4"
+msgstr "Schritt 2 von 4"
+
+#: install.php:117
+msgid "Tell us about your website"
+msgstr "Erzählen Sie uns von Ihrer Website"
+
+#: install.php:118
+msgid ""
+"You’ll get the chance to setup all the other details once you log in to the "
+"WordPress admin."
+msgstr ""
+"Sie können alle anderen Details später einrichten, sobald Sie sich in "
+"WordPress-Admin angemeldet haben."
+
+#: install.php:125
+msgid "Step 3 of 4"
+msgstr "Schritt 3 von 4"
+
+#: install.php:126
+msgid "Select your theme"
+msgstr "Wählen Sie ein Theme"
+
+#: install.php:127
+msgid ""
+"We offer a great variety of themes. Anything from eCommerce, blogs, "
+"portfolios, and more."
+msgstr ""
+"Wir bieten eine große Auswahl an Themes an. Alles über E-Commerce, Blogs, "
+"Portfolios und mehr."
+
+#: install.php:144
+msgid "Congratulations!"
+msgstr "Herzlichen Glückwunsch"
+
+#: install.php:145
+#, fuzzy
+#| msgid "You’ve successully installed WordPress on your website."
+msgid "You’ve successfully installed WordPress on your website."
+msgstr "Sie haben WordPress erfolgreich auf Ihrer Website installiert."
+
+#: install.php:147
+msgid "Back to One Dashboard"
+msgstr "Zurück zu einem Dashboard"
+
+#: install.php:148
+msgid "or"
+msgstr "oder"
+
+#: install.php:149
+msgid "Log in to this WordPress"
+msgstr "Loggen Sie sich in WordPress-Admin ein"
+
+#: install.php:164
+msgid "Add an admin email"
+msgstr "Admin-E-Mail"
+
+#: install.php:166
+msgid "Email"
+msgstr "E-Mail-Adresse"
+
+#: install.php:170
+msgid "Choose an admin username"
+msgstr "Wählen Sie einen Benutzernamen"
+
+#: install.php:172
+msgid "Username"
+msgstr "Benutzername"
+
+#: install.php:173
+msgid ""
+"Usernames can have only alphanumeric characters, spaces, underscores, "
+"hyphens, periods, and the @ symbol."
+msgstr ""
+
+#: install.php:177
+msgid "Enter a password"
+msgstr "Geben Sie Ihr Passwort ein"
+
+#: install.php:179
+msgid "Password"
+msgstr "Passwort"
+
+#: install.php:187
+#, fuzzy
+msgid "Title"
+msgstr "Title"
+
+#: install.php:189
+msgid "My Amazing WordPress Website"
+msgstr "Eine WordPress-Seite"
+
+#: install.php:193
+msgid "Tagline"
+msgstr "Tagline"
+
+#: install.php:195
+msgid "I’m gonna do great things!"
+msgstr "Ich habe Groẞes vor! "
+
+#: install.php:195
+#, fuzzy
+#| msgid "My Amazing WordPress Website"
+msgid "Just another WordPress site"
+msgstr "Eine WordPress-Seite"
+
+#: install.php:205
+#, php-format
+msgid "I have read the %sTerms and Conditions%s and I agree to these"
+msgstr "Ich habe die %sGeschäftsbedingungen%s gelesen und akzeptiere sie"
+
+#: install.php:211
+msgid "Discourage search engines from indexing this site"
+msgstr "Suchmaschinen davon abhalten, diese Website zu indexieren."
+
+#: install.php:211
+msgid "(optional)"
+msgstr "(Optional)"
+
+#: install.php:222
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+#: install.php:223
+#, fuzzy
+msgid "Blog"
+msgstr "Blog"
+
+#: install.php:224
+#, fuzzy
+msgid "Business & Services"
+msgstr "Services anschauen"
+
+#: install.php:225
+#, fuzzy
+msgid "Events"
+msgstr "Ereignisse"
+
+#: install.php:226
+msgid "Family & Recreation"
+msgstr ""
+
+#: install.php:227
+msgid "Food & Hospitality"
+msgstr ""
+
+#: install.php:228
+msgid "Music & Art"
+msgstr ""
+
+#: install.php:229
+#, fuzzy
+#| msgid "One.com Online Shop"
+msgid "Online Shop"
+msgstr "Online Shop von one.com "
+
+#: install.php:230
+msgid "Portfolio & CV"
+msgstr ""
+
+#: install.php:231 oci/validator/validator.php:573
+#, fuzzy
+msgid "Premium"
+msgstr "Premium-Funktion"
+
+#: install.php:264
+#, fuzzy
+msgid "Preview"
+msgstr "Vorschau"
+
+#: install.php:269
+msgid "Select theme"
+msgstr "Wählen Sie ein Theme"
+
+#: install.php:274
+msgid "Selected"
+msgstr "Ausgewählt"
+
+#: install.php:288
+#, fuzzy
+msgid "Install"
+msgstr "Installieren"
+
+#: install.php:298
+msgid "No themes found"
+msgstr "No themes found"
+
+#: install.php:302
+#, fuzzy
+msgid "Load more themes"
+msgstr "Weitere Themes anzeigen"
+
+# Make sure that "preview" fits with the following translation:
+#
+#
+# en-US = Preview
+#
+# da-DK = Forhåndsvisning
+# de-DE = Vorschau
+# es-ES = Vista previa
+# fi-FI = Esikatsele
+# fr-FR = Aperçu
+# it-IT = Anteprima
+# nb-NO = Forhåndsvisning
+# nl-NL = Voorbeeld
+# pt-PT = Pré-visualização
+# sv-SE = Förhandsgranska
+#: install.php:320
+msgid "Preview on desktop"
+msgstr "Vorschau auf dem Desktop"
+
+# Make sure that "preview" fits with the following translation:
+#
+#
+# en-US = Preview
+#
+# da-DK = Forhåndsvisning
+# de-DE = Vorschau
+# es-ES = Vista previa
+# fi-FI = Esikatsele
+# fr-FR = Aperçu
+# it-IT = Anteprima
+# nb-NO = Forhåndsvisning
+# nl-NL = Voorbeeld
+# pt-PT = Pré-visualização
+# sv-SE = Förhandsgranska
+#: install.php:321
+msgid "Preview on tablet"
+msgstr "Vorschau auf dem Tablet"
+
+# Make sure that "preview" fits with the following translation:
+#
+#
+# en-US = Preview
+#
+# da-DK = Forhåndsvisning
+# de-DE = Vorschau
+# es-ES = Vista previa
+# fi-FI = Esikatsele
+# fr-FR = Aperçu
+# it-IT = Anteprima
+# nb-NO = Forhåndsvisning
+# nl-NL = Voorbeeld
+# pt-PT = Pré-visualização
+# sv-SE = Förhandsgranska
+#: install.php:322
+msgid "Preview on mobile"
+msgstr "Vorschau auf dem Handy"
+
+# Make sure that "preview" fits with the following translation:
+#
+#
+# en-US = Preview
+#
+# da-DK = Forhåndsvisning
+# de-DE = Vorschau
+# es-ES = Vista previa
+# fi-FI = Esikatsele
+# fr-FR = Aperçu
+# it-IT = Anteprima
+# nb-NO = Forhåndsvisning
+# nl-NL = Voorbeeld
+# pt-PT = Pré-visualização
+# sv-SE = Förhandsgranska
+#: install.php:323
+msgid "Close Preview"
+msgstr "Vorschau schließen"
+
+#: install.php:349 oci/validator/validator.php:414
+msgid "Premium feature"
+msgstr "Premium-Funktion"
+
+#: install.php:352 oci/validator/validator.php:420
+#, fuzzy
+msgid "The chosen theme is not available in your current subscription."
+msgstr "Das ausgewählte Theme ist nicht in Ihrem Abonnement verfügbar."
+
+#: install.php:352 oci/validator/validator.php:425
+#: oci/validator/validator.php:808
+#, fuzzy
+msgid "Please upgrade to a subscription with access to Premium features."
+msgstr ""
+"Um auf unsere Premium-Funktionen zugreifen zu können, ist ein Upgrade "
+"erforderlich."
+
+#: install.php:352 oci/oci-mwp.php:147 oci/validator/validator.php:22
+#: oci/validator/validator.php:600
+#, fuzzy
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: install.php:356 oci/validator/validator.php:435
+#, fuzzy
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: install.php:357 oci/validator/validator.php:438
+msgid "Upgrade"
+msgstr "Upgraden"
+
+#: install.php:383
+msgid ""
+"If you wish to preview themes before selecting them, please visit this page "
+"on desktop."
+msgstr ""
+"Wenn Sie vor der Auswahl eines Themes eine Vorschau ansehen möchten, "
+"besuchen Sie diese Seite bitte auf einem Desktop."
+
+#: install.php:384
+msgid "OK"
+msgstr ""
+
+#: oci/OCPushStats.php:150 oci/validator/OCPushStats.php:147
+#: oci/validator/class-onecom-usage-stats.php:237
+#: oci/validator/validator.php:21 oci/validator/validator.php:154
+#, fuzzy
+msgid "Some error occurred, please reload the page and try again."
+msgstr ""
+"Es ist ein Fehler aufgetreten. Bitte laden Sie die Seite neu und versuchen "
+"Sie es erneut."
+
+#: oci/ajax.php:116 oci/ajax.php:597
+#, fuzzy
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress wird aktualisiert. Bitte versuchen Sie es später nochmal."
+
+#: oci/ajax.php:119 oci/ajax.php:340
+#, fuzzy
+msgid "Something went wrong. Please contact the support at one.com."
+msgstr ""
+"Leider ist ein Fehler aufgetreten. Bitte wenden Sie sich an den Support von "
+"one.com."
+
+#: oci/ajax.php:133 oci/ajax.php:222 oci/ajax.php:357
+#, fuzzy
+msgid ""
+"Unable to connect to the file system. Please contact the support at one.com."
+msgstr ""
+"Eine Verbindung zum Dateisystem konnte nicht hergestellt werden. Bitte "
+"wenden Sie sich an den Support von one.com."
+
+#: oci/ajax.php:150
+#, fuzzy
+#| msgid "Installing WordPress"
+msgid "Installing WordPress and theme."
+msgstr "WordPress installieren"
+
+# en_US = Under Construction
+#
+# da_DK = Under opbygning
+# fr_FR = En construction
+# it_IT = In allestimento
+# nb_NO = Under-arbeid
+# pt_PT = Em construção
+# es_ES = En construcción
+# nl_NL = Onder constructie
+# de_DE = In Bearbeitung
+# sv_SE = Under konstruktion
+# fi_FI = Keskeneräinen
+#
+# ______________________________________________________________________________
+#: oci/ajax.php:370 oci/ajax.php:408 oci/ajax.php:414
+#, fuzzy
+#| msgid "Disable under construction"
+msgid "Installing Under construction plugin"
+msgstr ""
+"Deaktivieren Sie die Seite \"In Bearbeitung\" und zeigen Sie Ihre Website an"
+
+#: oci/ajax.php:500
+msgid "Installing WordPress"
+msgstr "WordPress installieren"
+
+#: oci/ajax.php:569
+#, fuzzy
+#| msgid "Active themes and plugins"
+msgid "Activating dependant plugins"
+msgstr "Aktive Themes und Plugins"
+
+#: oci/oci-mwp.php:147 oci/validator/validator.php:598
+#, fuzzy
+msgid "This is a Premium Theme"
+msgstr "Dies ist ein Premium-Theme"
+
+#: oci/oci-mwp.php:174
+msgid "Back"
+msgstr "Zurück"
+
+#: oci/oci-mwp.php:175
+msgid "Next step"
+msgstr "Nächster Schritt"
+
+#: oci/oci-mwp.php:176
+msgid "Skip"
+msgstr "Überspringen"
+
+#: oci/oci-mwp.php:177
+msgid "Install theme"
+msgstr "Theme installieren"
+
+#: oci/oci-mwp.php:178
+msgid "Downloading WordPress package..."
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:53
+#, fuzzy
+msgid ""
+"For delivering best customer experience, one.com wants to collect non-"
+"sensitive data from your website."
+msgstr ""
+"Um das beste Kundenerlebnis zu bieten, möchte one.com nicht-sensible Daten "
+"von Ihrer Website sammeln."
+
+#: oci/validator/class-onecom-usage-stats.php:54
+msgid "Which data?"
+msgstr "Welche Daten?"
+
+#: oci/validator/class-onecom-usage-stats.php:55
+msgid "Allow one.com to collect data."
+msgstr "Erlauben Sie one.com, Daten zu sammeln."
+
+#: oci/validator/class-onecom-usage-stats.php:60
+#, fuzzy
+msgid "Installed plugins"
+msgstr "Installierte Plugins"
+
+#: oci/validator/class-onecom-usage-stats.php:61
+#, fuzzy
+msgid "Installed themes"
+msgstr "Installierte Themes"
+
+#: oci/validator/class-onecom-usage-stats.php:62
+#, fuzzy
+msgid "Counts of "
+msgstr "Anzahl der"
+
+#: oci/validator/class-onecom-usage-stats.php:64
+msgid "Posts"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:65
+#, fuzzy
+msgid "Pages"
+msgstr "Seiten:"
+
+#: oci/validator/class-onecom-usage-stats.php:66
+#, fuzzy
+msgid "Media"
+msgstr "Medien hinzufügen"
+
+#: oci/validator/class-onecom-usage-stats.php:67
+#, fuzzy
+msgid "Products"
+msgstr "Produkte pro Zeile"
+
+#: oci/validator/class-onecom-usage-stats.php:68
+msgid "Comments"
+msgstr "Kommentare"
+
+#: oci/validator/class-onecom-usage-stats.php:69
+#, fuzzy
+msgid "Users"
+msgstr "Alle Benutzer"
+
+#: oci/validator/class-onecom-usage-stats.php:71
+#, fuzzy
+msgid "Staging exists"
+msgstr "Vorhandene Staging-Seite"
+
+#: oci/validator/class-onecom-usage-stats.php:72
+#, fuzzy
+#| msgid "General settings"
+msgid "Frontpage settings"
+msgstr "Blog-Einstellungen"
+
+#: oci/validator/class-onecom-usage-stats.php:73
+msgid "Multisite"
+msgstr ""
+
+#: oci/validator/validator.php:422
+#, fuzzy
+msgid "This feature is not available in your current subscription."
+msgstr "Diese Funktion ist nicht Teil Ihres Abonnements."
+
+#: oci/validator/validator.php:702
+#, fuzzy
+msgid "Connection timed out"
+msgstr "Zeitüberschreitung bei der Verbindung"
+
+#: oci/validator/validator.php:727
+#, fuzzy
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Leider wurden keine Themen gefunden, die kompatibel zu Ihrer Version von "
+"WordPress und PHP sind."
+
+#: oci/validator/validator.php:727
+msgid "Try again"
+msgstr "Bitte versuchen Sie es erneut"
+
+#: oci/validator/validator.php:808
+#, fuzzy
+msgid ""
+"You have chosen a Premium feature that is not included in your current "
+"subscription."
+msgstr ""
+"Sie haben ein Premium-Feature ausgewählt, das in Ihrem aktuellen Abonnement "
+"nicht verfügbar ist."

@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-18 12:25+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: OCPushStats.php:157 class-onecom-usage-stats.php:336 validator.php:21
+#: validator.php:154
+msgid "Some error occurred, please reload the page and try again."
+msgstr ""
+"Es ist ein Fehler aufgetreten. Bitte laden Sie die Seite neu und versuchen "
+"Sie es erneut."
+
+#: class-onecom-usage-stats.php:76
+msgid ""
+"For delivering best customer experience, one.com wants to collect non-"
+"sensitive data from your website."
+msgstr ""
+"Um das beste Kundenerlebnis zu bieten, möchte one.com nicht-sensible Daten "
+"von Ihrer Website sammeln."
+
+#: class-onecom-usage-stats.php:77
+msgid "Which data?"
+msgstr "Welche Daten?"
+
+#: class-onecom-usage-stats.php:79
+msgid "Allow one.com to collect data."
+msgstr "Erlauben Sie one.com, Daten zu sammeln."
+
+#: class-onecom-usage-stats.php:86
+msgid "Installed plugins"
+msgstr "Installierte Plugins"
+
+#: class-onecom-usage-stats.php:87
+msgid "Installed themes"
+msgstr "Installierte Themes"
+
+#: class-onecom-usage-stats.php:88
+msgid "Counts of "
+msgstr "Anzahl der"
+
+#: class-onecom-usage-stats.php:90
+msgid "Posts"
+msgstr ""
+
+#: class-onecom-usage-stats.php:91
+msgid "Pages"
+msgstr "Seiten:"
+
+#: class-onecom-usage-stats.php:92
+msgid "Media"
+msgstr "Medien hinzufügen"
+
+#: class-onecom-usage-stats.php:93
+msgid "Products"
+msgstr "Produkte pro Zeile"
+
+#: class-onecom-usage-stats.php:94
+msgid "Comments"
+msgstr "Kommentare"
+
+#: class-onecom-usage-stats.php:95
+msgid "Users"
+msgstr "Alle Benutzer"
+
+# Translate "staging" like it's used below.
+#
+# da_DK = Genopret staging
+#
+# de_DE = Staging wiederherstellen
+# es_ES = Volver a generar página de prueba
+# fi_FI = Luo valmistelusivusto uudelleen
+# fr_FR = Reconstruire le site test
+# it_IT = Ricostruzione allestimento
+# nb_NO = Gjenoppbygg testmiljø
+# nl_NL = Staging hernieuwen
+# pt_PT = Reconstruir versão maqueta
+# sv_SE = Återskapa testsida
+#: class-onecom-usage-stats.php:97
+msgid "Staging exists"
+msgstr "Vorhandene Staging-Seite"
+
+#: class-onecom-usage-stats.php:98
+msgid "Frontpage settings"
+msgstr "Blog-Einstellungen"
+
+#: class-onecom-usage-stats.php:99
+msgid "Multisite"
+msgstr ""
+
+#: validator.php:22 validator.php:598
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: validator.php:412
+msgid "Premium feature"
+msgstr "Premium-Funktion"
+
+#: validator.php:418
+msgid "The chosen theme is not available in your current subscription."
+msgstr "Das ausgewählte Theme ist nicht in Ihrem Abonnement verfügbar."
+
+#: validator.php:420
+msgid "This feature is not available in your current subscription."
+msgstr "Diese Funktion ist nicht Teil Ihres Abonnements."
+
+#: validator.php:423 validator.php:804
+msgid "Please upgrade to a subscription with access to Premium features."
+msgstr ""
+"Um auf unsere Premium-Funktionen zugreifen zu können, ist ein Upgrade "
+"erforderlich."
+
+#: validator.php:433
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: validator.php:436
+msgid "Upgrade"
+msgstr "Upgraden"
+
+#: validator.php:571
+msgid "Premium"
+msgstr "Premium-Funktion"
+
+#: validator.php:596
+msgid "This is a Premium Theme"
+msgstr "Dies ist ein Premium-Theme"
+
+#: validator.php:700
+msgid "Connection timed out"
+msgstr "Zeitüberschreitung bei der Verbindung"
+
+#: validator.php:725
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Leider wurden keine Themen gefunden, die kompatibel zu Ihrer Version von "
+"WordPress und PHP sind."
+
+#: validator.php:725
+msgid "Try again"
+msgstr "Bitte versuchen Sie es erneut"
+
+#: validator.php:804
+msgid ""
+"You have chosen a Premium feature that is not included in your current "
+"subscription."
+msgstr ""
+"Sie haben ein Premium-Feature ausgewählt, das in Ihrem aktuellen Abonnement "
+"nicht verfügbar ist."

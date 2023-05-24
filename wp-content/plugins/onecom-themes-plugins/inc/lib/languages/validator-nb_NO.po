@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-18 12:25+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: OCPushStats.php:157 class-onecom-usage-stats.php:336 validator.php:21
+#: validator.php:154
+#, fuzzy
+msgid "Some error occurred, please reload the page and try again."
+msgstr "Det oppsto en feil, vennligst last siden inn på nytt og prøv igjen."
+
+#: class-onecom-usage-stats.php:76
+msgid ""
+"For delivering best customer experience, one.com wants to collect non-"
+"sensitive data from your website."
+msgstr ""
+"For å levere den beste kundeopplevelsen, ønsker one.com å samle ikke-"
+"sensitive data fra hjemmesiden din."
+
+#: class-onecom-usage-stats.php:77
+msgid "Which data?"
+msgstr "Hvilke data?"
+
+#: class-onecom-usage-stats.php:79
+msgid "Allow one.com to collect data."
+msgstr "Tillat one.com å samle data."
+
+#: class-onecom-usage-stats.php:86
+msgid "Installed plugins"
+msgstr "Installerte plugins"
+
+#: class-onecom-usage-stats.php:87
+msgid "Installed themes"
+msgstr "Installerte temaer"
+
+#: class-onecom-usage-stats.php:88
+msgid "Counts of "
+msgstr "Antall"
+
+#: class-onecom-usage-stats.php:90
+msgid "Posts"
+msgstr ""
+
+#: class-onecom-usage-stats.php:91
+#, fuzzy
+msgid "Pages"
+msgstr "Sider:"
+
+#: class-onecom-usage-stats.php:92
+#, fuzzy
+msgid "Media"
+msgstr "Legg til medier"
+
+#: class-onecom-usage-stats.php:93
+msgid "Products"
+msgstr "Produkter per rad"
+
+#: class-onecom-usage-stats.php:94
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: class-onecom-usage-stats.php:95
+msgid "Users"
+msgstr "Alle brukere"
+
+# Translate "staging" like it's used below.
+#
+# da_DK = Genopret staging
+#
+# de_DE = Staging wiederherstellen
+# es_ES = Volver a generar página de prueba
+# fi_FI = Luo valmistelusivusto uudelleen
+# fr_FR = Reconstruire le site test
+# it_IT = Ricostruzione allestimento
+# nb_NO = Gjenoppbygg testmiljø
+# nl_NL = Staging hernieuwen
+# pt_PT = Reconstruir versão maqueta
+# sv_SE = Återskapa testsida
+#: class-onecom-usage-stats.php:97
+msgid "Staging exists"
+msgstr "Eksisterende side for gjenoppbygging av testmiljø"
+
+#: class-onecom-usage-stats.php:98
+#, fuzzy
+#| msgid "Blog settings"
+msgid "Frontpage settings"
+msgstr "Blogginnstillinger"
+
+#: class-onecom-usage-stats.php:99
+msgid "Multisite"
+msgstr ""
+
+#: validator.php:22 validator.php:598
+#, fuzzy
+msgid "Learn more"
+msgstr "Les mer"
+
+#: validator.php:412
+msgid "Premium feature"
+msgstr "Premium funksjon"
+
+#: validator.php:418
+msgid "The chosen theme is not available in your current subscription."
+msgstr "Temaet du har valgt er ikke tilgjengelig i ditt nåværende abonnement."
+
+#: validator.php:420
+msgid "This feature is not available in your current subscription."
+msgstr "Denne funksjonen er ikke tilgjengelig i ditt nåværende abonnement."
+
+#: validator.php:423 validator.php:804
+msgid "Please upgrade to a subscription with access to Premium features."
+msgstr ""
+"Vennligst oppgrader til et abonnement med tilgang til Premium funksjoner."
+
+#: validator.php:433
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: validator.php:436
+msgid "Upgrade"
+msgstr "Oppgrader"
+
+#: validator.php:571
+msgid "Premium"
+msgstr "Premium funksjon"
+
+#: validator.php:596
+msgid "This is a Premium Theme"
+msgstr "Dette er et Premium tema."
+
+#: validator.php:700
+#, fuzzy
+msgid "Connection timed out"
+msgstr "Tilkoblingen har utløpt"
+
+#: validator.php:725
+#, fuzzy
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Beklager, ingen kompatible temaer ble funnet for din versjon av WordPress og "
+"PHP."
+
+#: validator.php:725
+#, fuzzy
+msgid "Try again"
+msgstr "Prøv igjen"
+
+#: validator.php:804
+msgid ""
+"You have chosen a Premium feature that is not included in your current "
+"subscription."
+msgstr ""
+"Du har valgt en Premium funksjon som ikke er inkludert i ditt nåværende "
+"abonnement."

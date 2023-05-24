@@ -1,0 +1,111 @@
+# Translation of Themes - Hello Elementor in Danish
+# This file is distributed under the same license as the Themes - Hello Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-07 09:43:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - Hello Elementor\n"
+
+#. Description of the theme
+msgid "A plain-vanilla & lightweight theme for Elementor page builder"
+msgstr "Et basalt og letvægts-tema for Elementor sidebygger"
+
+#. Theme Name of the theme
+msgid "Hello Elementor"
+msgstr "Hello Elementor"
+
+#: includes/admin-functions.php:48
+msgid "Hello theme is a lightweight starter theme. We recommend you use it together with Elementor Page Builder plugin, they work perfectly together!"
+msgstr "Hello tema er et letvægts starttema. Vi anbefaler at du bruger det sammen med Elementor Page Builder plugin, de fungerer perfekt sammen!"
+
+#: includes/admin-functions.php:140
+msgid "Thanks for installing Hello Theme!"
+msgstr "Tak for at du installerede Hello tema!"
+
+#: includes/admin-functions.php:50
+msgid "Install Elementor"
+msgstr "Installer Elementor"
+
+#: includes/admin-functions.php:41
+msgid "Activate Elementor"
+msgstr "Aktivér Elementor"
+
+#: includes/admin-functions.php:143
+msgid "Learn more about Elementor"
+msgstr "Lær mere om Elementor"
+
+#: includes/admin-functions.php:39
+msgid "Hello theme is a lightweight starter theme designed to work perfectly with Elementor Page Builder plugin."
+msgstr "Hello tema er et letvægts startertema, der er designet til at fungerer perfekt sammen med Elementor Page Builder plugin."
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Lukket for kommentarer."
+
+#. translators: 1: number of comments
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "%1$s reaktion"
+msgstr[1] "%1$s reaktioner"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One Response"
+msgstr "En reaktion"
+
+#. Translators: HTML arrow
+#: template-parts/search.php:46 template-parts/archive.php:48
+msgid "newer %s"
+msgstr "nyere %s"
+
+#. Translators: HTML arrow
+#: template-parts/search.php:44 template-parts/archive.php:46
+msgid "%s older"
+msgstr "%s ældre"
+
+#: template-parts/search.php:32
+msgid "It seems we can't find what you're looking for."
+msgstr "Det ser ikke ud til, at vi kan finde det du leder efter."
+
+#: template-parts/search.php:16
+msgid "Search results for: "
+msgstr "Resultat af søgning efter: "
+
+#: template-parts/header.php:23
+msgid "Home"
+msgstr "Forside"
+
+#: template-parts/single.php:25
+msgid "Tagged "
+msgstr "Emneord "
+
+#: template-parts/404.php:19
+msgid "It looks like nothing was found at this location."
+msgstr "Det ser ikke ud til at der blev fundet noget på den placering."
+
+#: template-parts/404.php:15
+msgid "The page can&rsquo;t be found."
+msgstr "Hov! Den side findes ikke."
+
+#: functions.php:32
+msgid "Primary"
+msgstr "Primær"
+
+#. Author URI of the theme
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Theme URI of the theme
+msgid "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+msgid "Elementor Team"
+msgstr "Elementer team"

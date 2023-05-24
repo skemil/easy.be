@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-06 16:46+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: install.php:66
+msgid "Help"
+msgstr ""
+
+#: install.php:72 install.php:103
+msgid "WordPress installation"
+msgstr "Installation af WordPress"
+
+#: install.php:107
+msgid "Step 1 of 4"
+msgstr ""
+
+#: install.php:108
+msgid "Create a WordPress admin account for this website"
+msgstr ""
+
+#: install.php:109
+msgid ""
+"This is the account you’re gonna use to log in to your WordPress admin, "
+"where you can edit your website."
+msgstr ""
+
+#: install.php:116
+msgid "Step 2 of 4"
+msgstr ""
+
+#: install.php:117
+msgid "Tell us about your website"
+msgstr "Fortæl os mere om dit websted:"
+
+#: install.php:118
+msgid ""
+"You’ll get the chance to setup all the other details once you log in to the "
+"WordPress admin."
+msgstr ""
+
+#: install.php:125
+msgid "Step 3 of 4"
+msgstr ""
+
+#: install.php:126
+#, fuzzy
+msgid "Select your theme"
+msgstr "Vælg et tema"
+
+#: install.php:127
+msgid ""
+"We offer a great variety of themes. Anything from eCommerce, blogs, "
+"portfolios, and more."
+msgstr ""
+
+#: install.php:144
+msgid "Congratulations!"
+msgstr ""
+
+#: install.php:145
+msgid "You’ve successfully installed WordPress on your website."
+msgstr ""
+
+#: install.php:147
+#, fuzzy
+msgid "Back to One Dashboard"
+msgstr "Gå videre til dashboard"
+
+#: install.php:148
+msgid "or"
+msgstr "or"
+
+#: install.php:149
+#, fuzzy
+msgid "Log in to this WordPress"
+msgstr "Velkommen til WordPress"
+
+#: install.php:164
+msgid "Add an admin email"
+msgstr ""
+
+#: install.php:166
+msgid "Email"
+msgstr "E-mail"
+
+#: install.php:170
+msgid "Choose an admin username"
+msgstr ""
+
+#: install.php:172
+msgid "Username"
+msgstr "Brugernavn"
+
+#: install.php:173
+msgid ""
+"Usernames can have only alphanumeric characters, spaces, underscores, "
+"hyphens, periods, and the @ symbol."
+msgstr ""
+"Brugernavne må kun indeholde alfanumeriske tegn, mellemrum, "
+"understregninger, bindestreger, punktummer og symbolet @."
+
+#: install.php:177
+msgid "Enter a password"
+msgstr "Bekræft adgangskode"
+
+#: install.php:179
+msgid "Password"
+msgstr "Adgangskode"
+
+#: install.php:187
+msgid "Title"
+msgstr "Titel"
+
+#: install.php:189
+msgid "My Amazing WordPress Website"
+msgstr "Et WordPress-websted"
+
+#: install.php:193
+msgid "Tagline"
+msgstr "Tagline"
+
+#: install.php:195
+msgid "I’m gonna do great things!"
+msgstr ""
+
+#: install.php:195
+msgid "Just another WordPress site"
+msgstr "Endnu et WordPress-websted"
+
+#: install.php:205
+#, php-format
+msgid "I have read the %sTerms and Conditions%s and I agree to these"
+msgstr ""
+
+#: install.php:211
+msgid "Discourage search engines from indexing this site"
+msgstr "Sørg for, at søgemaskinerne ikke indekserer dette websted"
+
+#: install.php:211
+msgid "(optional)"
+msgstr ""
+
+#: install.php:222
+msgid "All categories"
+msgstr ""
+
+#: install.php:223
+msgid "Blog"
+msgstr ""
+
+#: install.php:224
+msgid "Business & Services"
+msgstr ""
+
+#: install.php:225
+msgid "Events"
+msgstr ""
+
+#: install.php:226
+msgid "Family & Recreation"
+msgstr ""
+
+#: install.php:227
+msgid "Food & Hospitality"
+msgstr ""
+
+#: install.php:228
+msgid "Music & Art"
+msgstr ""
+
+#: install.php:229
+msgid "Online Shop"
+msgstr ""
+
+#: install.php:230
+msgid "Portfolio & CV"
+msgstr ""
+
+#: install.php:231 oci/validator/validator.php:573
+msgid "Premium"
+msgstr "Premium funktion"
+
+#: install.php:264
+#, fuzzy
+msgid "Preview"
+msgstr "Eksempel"
+
+#: install.php:269
+#, fuzzy
+msgid "Select theme"
+msgstr "Vælg et tema"
+
+#: install.php:274
+#, fuzzy
+msgid "Selected"
+msgstr "Vælg et tema"
+
+#: install.php:288
+msgid "Install"
+msgstr "Installer"
+
+#: install.php:298
+msgid "No themes found"
+msgstr "Der blev ikke fundet nogen temaer"
+
+#: install.php:302
+#, fuzzy
+msgid "Load more themes"
+msgstr "Tilbage til Temaer"
+
+#: install.php:320
+msgid "Preview on desktop"
+msgstr ""
+
+#: install.php:321
+#, fuzzy
+#| msgid "Preview template"
+msgid "Preview on tablet"
+msgstr "Eksempel"
+
+#: install.php:322
+#, fuzzy
+#| msgid "Preview template"
+msgid "Preview on mobile"
+msgstr "Eksempel"
+
+#: install.php:323
+#, fuzzy
+msgid "Close Preview"
+msgstr "Eksempel"
+
+#: install.php:349 oci/validator/validator.php:414
+msgid "Premium feature"
+msgstr "Premium funktion"
+
+#: install.php:352 oci/validator/validator.php:420
+#, fuzzy
+msgid "The chosen theme is not available in your current subscription."
+msgstr "Det valgte tema er ikke tilgængeligt i dit nuværende abonnement."
+
+#: install.php:352 oci/validator/validator.php:425
+#: oci/validator/validator.php:808
+#, fuzzy
+msgid "Please upgrade to a subscription with access to Premium features."
+msgstr "Opgrader til et abonnement med adgang til Premium funktioner."
+
+#: install.php:352 oci/oci-mwp.php:147 oci/validator/validator.php:22
+#: oci/validator/validator.php:600
+msgid "Learn more"
+msgstr "Læs mere"
+
+#: install.php:356 oci/validator/validator.php:435
+msgid "Cancel"
+msgstr "Annuller"
+
+#: install.php:357 oci/validator/validator.php:438
+msgid "Upgrade"
+msgstr "Opgrader"
+
+#: install.php:383
+msgid ""
+"If you wish to preview themes before selecting them, please visit this page "
+"on desktop."
+msgstr ""
+
+#: install.php:384
+msgid "OK"
+msgstr ""
+
+#: oci/OCPushStats.php:150 oci/validator/OCPushStats.php:147
+#: oci/validator/class-onecom-usage-stats.php:237
+#: oci/validator/validator.php:21 oci/validator/validator.php:154
+msgid "Some error occurred, please reload the page and try again."
+msgstr ""
+
+#: oci/ajax.php:116 oci/ajax.php:597
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress er ved at blive opgraderet. Prøv igen senere."
+
+#: oci/ajax.php:119 oci/ajax.php:340
+#, fuzzy
+msgid "Something went wrong. Please contact the support at one.com."
+msgstr "Noget gik galt. Kontakt support hos one.com."
+
+#: oci/ajax.php:133 oci/ajax.php:222 oci/ajax.php:357
+#, fuzzy
+msgid ""
+"Unable to connect to the file system. Please contact the support at one.com."
+msgstr ""
+"Der kunne ikke oprettes forbindelse til filsystemet. Kontakt support hos one."
+"com."
+
+#: oci/ajax.php:150
+msgid "Installing WordPress and theme."
+msgstr "Installerer tema"
+
+#: oci/ajax.php:370 oci/ajax.php:408 oci/ajax.php:414
+msgid "Installing Under construction plugin"
+msgstr "Installerer plugin"
+
+#: oci/ajax.php:500
+msgid "Installing WordPress"
+msgstr "Installerer tema"
+
+#: oci/ajax.php:569
+msgid "Activating dependant plugins"
+msgstr ""
+
+#: oci/oci-mwp.php:147 oci/validator/validator.php:598
+#, fuzzy
+msgid "This is a Premium Theme"
+msgstr "Dette er et Premium tema"
+
+#: oci/oci-mwp.php:174
+msgid "Back"
+msgstr ""
+
+#: oci/oci-mwp.php:175
+msgid "Next step"
+msgstr ""
+
+#: oci/oci-mwp.php:176
+msgid "Skip"
+msgstr ""
+
+#: oci/oci-mwp.php:177
+msgid "Install theme"
+msgstr "Installerer tema"
+
+#: oci/oci-mwp.php:178
+#, fuzzy
+#| msgid "Installing WordPress and theme."
+msgid "Downloading WordPress package..."
+msgstr "Installerer tema"
+
+#: oci/validator/class-onecom-usage-stats.php:53
+msgid ""
+"For delivering best customer experience, one.com wants to collect non-"
+"sensitive data from your website."
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:54
+msgid "Which data?"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:55
+msgid "Allow one.com to collect data."
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:60
+#, fuzzy
+msgid "Installed plugins"
+msgstr "Installerer plugin"
+
+#: oci/validator/class-onecom-usage-stats.php:61
+#, fuzzy
+msgid "Installed themes"
+msgstr "Installerer tema"
+
+#: oci/validator/class-onecom-usage-stats.php:62
+msgid "Counts of "
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:64
+msgid "Posts"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:65
+msgid "Pages"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:66
+msgid "Media"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:67
+msgid "Products"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:68
+msgid "Comments"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:69
+#, fuzzy
+msgid "Users"
+msgstr "Brugernavn"
+
+#: oci/validator/class-onecom-usage-stats.php:71
+msgid "Staging exists"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:72
+msgid "Frontpage settings"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:73
+msgid "Multisite"
+msgstr ""
+
+#: oci/validator/validator.php:422
+#, fuzzy
+msgid "This feature is not available in your current subscription."
+msgstr "Det valgte tema er ikke tilgængeligt i dit nuværende abonnement."
+
+#: oci/validator/validator.php:702
+msgid "Connection timed out"
+msgstr ""
+
+#: oci/validator/validator.php:727
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+
+#: oci/validator/validator.php:727
+msgid "Try again"
+msgstr ""
+
+#: oci/validator/validator.php:808
+#, fuzzy
+msgid ""
+"You have chosen a Premium feature that is not included in your current "
+"subscription."
+msgstr "Det valgte tema er ikke tilgængeligt i dit nuværende abonnement."

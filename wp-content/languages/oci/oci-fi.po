@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-06 16:46+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: install.php:66
+msgid "Help"
+msgstr ""
+
+#: install.php:72 install.php:103
+msgid "WordPress installation"
+msgstr ""
+
+#: install.php:107
+msgid "Step 1 of 4"
+msgstr ""
+
+#: install.php:108
+msgid "Create a WordPress admin account for this website"
+msgstr ""
+
+#: install.php:109
+msgid ""
+"This is the account you’re gonna use to log in to your WordPress admin, "
+"where you can edit your website."
+msgstr ""
+
+#: install.php:116
+msgid "Step 2 of 4"
+msgstr ""
+
+#: install.php:117
+#, fuzzy
+msgid "Tell us about your website"
+msgstr "Siirrä verkkosivustosi logo palvelimelle."
+
+#: install.php:118
+msgid ""
+"You’ll get the chance to setup all the other details once you log in to the "
+"WordPress admin."
+msgstr ""
+
+#: install.php:125
+msgid "Step 3 of 4"
+msgstr ""
+
+#: install.php:126
+msgid "Select your theme"
+msgstr ""
+
+#: install.php:127
+msgid ""
+"We offer a great variety of themes. Anything from eCommerce, blogs, "
+"portfolios, and more."
+msgstr ""
+
+#: install.php:144
+msgid "Congratulations!"
+msgstr ""
+
+#: install.php:145
+msgid "You’ve successfully installed WordPress on your website."
+msgstr ""
+
+#: install.php:147
+msgid "Back to One Dashboard"
+msgstr ""
+
+#: install.php:148
+msgid "or"
+msgstr "tai"
+
+#: install.php:149
+msgid "Log in to this WordPress"
+msgstr ""
+
+#: install.php:164
+msgid "Add an admin email"
+msgstr ""
+
+#: install.php:166
+#, fuzzy
+msgid "Email"
+msgstr "Sähköpostiosoite"
+
+#: install.php:170
+msgid "Choose an admin username"
+msgstr ""
+
+#: install.php:172
+#, fuzzy
+#| msgid "Users"
+msgid "Username"
+msgstr "Kaikki käyttäjät"
+
+#: install.php:173
+msgid ""
+"Usernames can have only alphanumeric characters, spaces, underscores, "
+"hyphens, periods, and the @ symbol."
+msgstr ""
+
+#: install.php:177
+msgid "Enter a password"
+msgstr ""
+
+#: install.php:179
+msgid "Password"
+msgstr ""
+
+#: install.php:187
+#, fuzzy
+msgid "Title"
+msgstr "Otsikko"
+
+#: install.php:189
+msgid "My Amazing WordPress Website"
+msgstr ""
+
+#: install.php:193
+#, fuzzy
+#| msgid "Header Tagline"
+msgid "Tagline"
+msgstr "Ylätunnisteen tunnuslause"
+
+#: install.php:195
+msgid "I’m gonna do great things!"
+msgstr ""
+
+#: install.php:195
+msgid "Just another WordPress site"
+msgstr ""
+
+#: install.php:205
+#, php-format
+msgid "I have read the %sTerms and Conditions%s and I agree to these"
+msgstr ""
+
+#: install.php:211
+msgid "Discourage search engines from indexing this site"
+msgstr ""
+
+#: install.php:211
+msgid "(optional)"
+msgstr ""
+
+#: install.php:222
+#, fuzzy
+#| msgid "Categories"
+msgid "All categories"
+msgstr "Luokat"
+
+#: install.php:223
+#, fuzzy
+msgid "Blog"
+msgstr "Blogi"
+
+#: install.php:224
+#, fuzzy
+msgid "Business & Services"
+msgstr "Katso palvelut"
+
+#: install.php:225
+#, fuzzy
+msgid "Events"
+msgstr "Tapahtumat"
+
+#: install.php:226
+msgid "Family & Recreation"
+msgstr ""
+
+#: install.php:227
+msgid "Food & Hospitality"
+msgstr ""
+
+#: install.php:228
+msgid "Music & Art"
+msgstr ""
+
+# Name of the plugin and the menu entry in the menu to the left.
+# ____________________________
+# Reference for developers:
+#
+#: install.php:229
+msgid "Online Shop"
+msgstr "Verkkokauppa one.comin"
+
+#: install.php:230
+msgid "Portfolio & CV"
+msgstr ""
+
+#: install.php:231 oci/validator/validator.php:573
+msgid "Premium"
+msgstr ""
+
+#: install.php:264
+#, fuzzy
+msgid "Preview"
+msgstr "Esikatsele"
+
+#: install.php:269
+#, fuzzy
+#| msgid "Select Services"
+msgid "Select theme"
+msgstr "Valitse palvelut"
+
+#: install.php:274
+#, fuzzy
+#| msgid "Select Services"
+msgid "Selected"
+msgstr "Valitse palvelut"
+
+#: install.php:288
+#, fuzzy
+msgid "Install"
+msgstr "Asenna"
+
+#: install.php:298
+msgid "No themes found"
+msgstr "No themes found"
+
+#: install.php:302
+#, fuzzy
+msgid "Load more themes"
+msgstr "Palaa teemoihin"
+
+#: install.php:320
+msgid "Preview on desktop"
+msgstr ""
+
+#: install.php:321
+msgid "Preview on tablet"
+msgstr ""
+
+#: install.php:322
+msgid "Preview on mobile"
+msgstr ""
+
+#: install.php:323
+#, fuzzy
+msgid "Close Preview"
+msgstr "Esikatsele"
+
+#: install.php:349 oci/validator/validator.php:414
+msgid "Premium feature"
+msgstr ""
+
+#: install.php:352 oci/validator/validator.php:420
+msgid "The chosen theme is not available in your current subscription."
+msgstr ""
+
+#: install.php:352 oci/validator/validator.php:425
+#: oci/validator/validator.php:808
+msgid "Please upgrade to a subscription with access to Premium features."
+msgstr ""
+
+#: install.php:352 oci/oci-mwp.php:147 oci/validator/validator.php:22
+#: oci/validator/validator.php:600
+#, fuzzy
+msgid "Learn more"
+msgstr "Lue lisää"
+
+#: install.php:356 oci/validator/validator.php:435
+#, fuzzy
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: install.php:357 oci/validator/validator.php:438
+msgid "Upgrade"
+msgstr ""
+
+#: install.php:383
+msgid ""
+"If you wish to preview themes before selecting them, please visit this page "
+"on desktop."
+msgstr ""
+
+#: install.php:384
+msgid "OK"
+msgstr ""
+
+#: oci/OCPushStats.php:150 oci/validator/OCPushStats.php:147
+#: oci/validator/class-onecom-usage-stats.php:237
+#: oci/validator/validator.php:21 oci/validator/validator.php:154
+#, fuzzy
+msgid "Some error occurred, please reload the page and try again."
+msgstr "Virhe, lataa sivu uudelleen ja yritä uudelleen."
+
+#: oci/ajax.php:116 oci/ajax.php:597
+#, fuzzy
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPressiä päivitetään. Yritä myöhemmin uudelleen."
+
+#: oci/ajax.php:119 oci/ajax.php:340
+#, fuzzy
+msgid "Something went wrong. Please contact the support at one.com."
+msgstr "Jokin meni vikaan. Ota yhteyttä one.comin tukeen."
+
+#: oci/ajax.php:133 oci/ajax.php:222 oci/ajax.php:357
+#, fuzzy
+msgid ""
+"Unable to connect to the file system. Please contact the support at one.com."
+msgstr ""
+"Yhteyden muodostaminen tiedostojärjestelmään ei onnistu. Ota yhteyttä one."
+"comin tukeen."
+
+#: oci/ajax.php:150
+#, fuzzy
+msgid "Installing WordPress and theme."
+msgstr "Asennetaan teemaa"
+
+#: oci/ajax.php:370 oci/ajax.php:408 oci/ajax.php:414
+#, fuzzy
+msgid "Installing Under construction plugin"
+msgstr "Asennetaan lisäosaa"
+
+#: oci/ajax.php:500
+#, fuzzy
+msgid "Installing WordPress"
+msgstr "Asennetaan teemaa"
+
+#: oci/ajax.php:569
+msgid "Activating dependant plugins"
+msgstr ""
+
+#: oci/oci-mwp.php:147 oci/validator/validator.php:598
+msgid "This is a Premium Theme"
+msgstr ""
+
+#: oci/oci-mwp.php:174
+#, fuzzy
+#| msgid "Backends"
+msgid "Back"
+msgstr "Tausta"
+
+#: oci/oci-mwp.php:175
+#, fuzzy
+msgid "Next step"
+msgstr "Seuraava"
+
+#: oci/oci-mwp.php:176
+msgid "Skip"
+msgstr ""
+
+#: oci/oci-mwp.php:177
+#, fuzzy
+msgid "Install theme"
+msgstr "Asennetaan teemaa"
+
+#: oci/oci-mwp.php:178
+msgid "Downloading WordPress package..."
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:53
+msgid ""
+"For delivering best customer experience, one.com wants to collect non-"
+"sensitive data from your website."
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:54
+msgid "Which data?"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:55
+msgid "Allow one.com to collect data."
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:60
+#, fuzzy
+msgid "Installed plugins"
+msgstr "Asennetaan lisäosaa"
+
+#: oci/validator/class-onecom-usage-stats.php:61
+#, fuzzy
+msgid "Installed themes"
+msgstr "Asennetaan teemaa"
+
+#: oci/validator/class-onecom-usage-stats.php:62
+msgid "Counts of "
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:64
+msgid "Posts"
+msgstr ""
+
+#: oci/validator/class-onecom-usage-stats.php:65
+msgid "Pages"
+msgstr "Sivuja:"
+
+#: oci/validator/class-onecom-usage-stats.php:66
+msgid "Media"
+msgstr "Lisää mediasisältöä"
+
+#: oci/validator/class-onecom-usage-stats.php:67
+msgid "Products"
+msgstr "Tuotteiden määrä riviä kohden"
+
+#: oci/validator/class-onecom-usage-stats.php:68
+msgid "Comments"
+msgstr "Kommentit"
+
+#: oci/validator/class-onecom-usage-stats.php:69
+msgid "Users"
+msgstr "Kaikki käyttäjät"
+
+#: oci/validator/class-onecom-usage-stats.php:71
+#, fuzzy
+msgid "Staging exists"
+msgstr "Poista valmistelusivusto"
+
+#: oci/validator/class-onecom-usage-stats.php:72
+#, fuzzy
+#| msgid "General settings"
+msgid "Frontpage settings"
+msgstr "Sivuasetukset"
+
+#: oci/validator/class-onecom-usage-stats.php:73
+msgid "Multisite"
+msgstr ""
+
+#: oci/validator/validator.php:422
+msgid "This feature is not available in your current subscription."
+msgstr ""
+
+#: oci/validator/validator.php:702
+#, fuzzy
+msgid "Connection timed out"
+msgstr "Yhteyden aikakatkaisu"
+
+#: oci/validator/validator.php:727
+#, fuzzy
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Valitettavasti WordPress- ja PHP-versiosi kanssa yhteensopivia teemoja ei "
+"löytynyt."
+
+#: oci/validator/validator.php:727
+#, fuzzy
+msgid "Try again"
+msgstr "Yritä uudelleen"
+
+#: oci/validator/validator.php:808
+msgid ""
+"You have chosen a Premium feature that is not included in your current "
+"subscription."
+msgstr ""

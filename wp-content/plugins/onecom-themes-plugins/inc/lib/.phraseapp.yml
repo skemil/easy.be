@@ -1,0 +1,21 @@
+phraseapp:
+  project_id: a442f264c41bee70e40736df8693c713
+  file_format: gettext
+  push:
+    sources:
+    - file: ./languages/validator-en_US.po
+      params:
+        locale_id: 718c737e76dd3a0a2c4d6f52fb7612b9
+        update_translations: true
+        update_descriptions: true
+        skip_unverification: true
+        tags: wp,wp.plugin,wp.premium
+
+    - file: ./languages/validator-*.po
+
+  pull:
+    targets:
+      - file: ./languages/validator-<locale_name>.po
+      - file: ./languages/validator-<locale_name>.mo
+        params:
+          file_format: gettext_mo
